@@ -30,5 +30,14 @@ namespace DFM.Controllers
             };
             return View(homeViewModel);
         }
+        public IActionResult Details(int id)
+        {
+            var furniture = _furnitureRepository.GetFurnitureById(id);
+            if (furniture == null)
+            {
+                return NotFound();
+            }
+            return View(furniture);
+        }
     }
 }
