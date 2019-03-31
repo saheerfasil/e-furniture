@@ -18,3 +18,4 @@ namespace DFM1.Models
 
         public bool ContactMe { get; set; }
     }
+}
