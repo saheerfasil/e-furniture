@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\controllers"
+    "\\Ecommerce",
+    "\\Ecommerce\\Ecommerce",
+    "\\Ecommerce\\Ecommerce\\Libraries",
+    "\\Ecommerce\\Ecommerce\\Models"
   ],
-  "SelectedNode": "\\controllers\\AccountController.cs",
+  "SelectedNode": "\\Ecommerce\\Ecommerce\\Models\\IdentityModels.cs",
   "PreviewInSolutionExplorer": false
 }
