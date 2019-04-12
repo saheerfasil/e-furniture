@@ -1,0 +1,331 @@
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\ApplicationInsights.config
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Ecommerce.dll.config
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Ecommerce.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Ecommerce.pdb
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Web.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Owin.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Linq.Dynamic.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Helpers.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Mvc.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Optimization.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Razor.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\WebGrease.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Web.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.ApplicationInsights.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Helpers.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Mvc.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Optimization.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Razor.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csc.exe
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csc.exe.config
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csc.rsp
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csi.exe
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csi.rsp
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.exe
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.rsp
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\madhu.MADHU\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\ApplicationInsights.config
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Ecommerce.dll.config
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Ecommerce.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Ecommerce.pdb
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csc.exe
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csc.exe.config
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csc.rsp
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csi.exe
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\csi.rsp
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.exe
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.rsp
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Web.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Owin.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Linq.Dynamic.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Helpers.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Mvc.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Optimization.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Razor.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\WebGrease.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Web.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Helpers.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Mvc.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Optimization.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.Razor.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\ressh\OneDrive\Documents\Visual Studio 2017\Projects\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\DFMShop\carlo\Ecommerce\bin\ApplicationInsights.config
+C:\DFMShop\carlo\Ecommerce\bin\Ecommerce.dll.config
+C:\DFMShop\carlo\Ecommerce\bin\Ecommerce.dll
+C:\DFMShop\carlo\Ecommerce\bin\Ecommerce.pdb
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\csc.exe
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\csc.exe.config
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\csc.rsp
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\csi.exe
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\csi.rsp
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\System.AppContext.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.exe
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.exe.config
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\vbc.rsp
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\DFMShop\carlo\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\DFMShop\carlo\Ecommerce\bin\Antlr3.Runtime.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.AspNet.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.Core.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.GoogleOAuth2.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OAuth.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OpenId.dll
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\DFMShop\carlo\Ecommerce\bin\EntityFramework.dll
+C:\DFMShop\carlo\Ecommerce\bin\EntityFramework.SqlServer.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Web.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.ApplicationInsights.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Facebook.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Google.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Twitter.dll
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.dll
+C:\DFMShop\carlo\Ecommerce\bin\Owin.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Diagnostics.DiagnosticSource.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Linq.Dynamic.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Net.Http.Extensions.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Net.Http.Primitives.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Helpers.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Mvc.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Optimization.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Razor.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.dll
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\DFMShop\carlo\Ecommerce\bin\WebGrease.dll
+C:\DFMShop\carlo\Ecommerce\bin\Org.Mentalis.Security.Cryptography.dll
+C:\DFMShop\carlo\Ecommerce\bin\Mono.Math.dll
+C:\DFMShop\carlo\Ecommerce\bin\Antlr3.Runtime.pdb
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.AspNet.xml
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.Core.xml
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OAuth.xml
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OpenId.xml
+C:\DFMShop\carlo\Ecommerce\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\DFMShop\carlo\Ecommerce\bin\EntityFramework.xml
+C:\DFMShop\carlo\Ecommerce\bin\EntityFramework.SqlServer.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.Web.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.ApplicationInsights.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Facebook.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Google.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DFMShop\carlo\Ecommerce\bin\Microsoft.Owin.Security.Twitter.xml
+C:\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.pdb
+C:\DFMShop\carlo\Ecommerce\bin\Newtonsoft.Json.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Diagnostics.DiagnosticSource.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Net.Http.Extensions.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Net.Http.Primitives.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Helpers.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Mvc.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Razor.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\DFMShop\carlo\Ecommerce\bin\System.Web.Optimization.xml
+C:\DFMShop\carlo\Ecommerce\bin\Org.Mentalis.Security.Cryptography.xml
+C:\DFMShop\carlo\Ecommerce\bin\Mono.Math.xml
+C:\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.App.config
+C:\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.dll
+C:\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\DFMShop\carlo\Ecommerce\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.csproj.App.config
+C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.pdb
