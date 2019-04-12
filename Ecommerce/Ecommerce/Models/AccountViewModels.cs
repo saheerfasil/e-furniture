@@ -61,3 +61,4 @@ namespace Ecommerce.Models
         [Display(Name = "Remember me?")]
         public bool RememberMe { get; set; }
     }
+    }
