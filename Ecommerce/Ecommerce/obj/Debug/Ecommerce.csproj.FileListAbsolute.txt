@@ -329,3 +329,8 @@ C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.csprojAssemblyR
 C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.dll
 C:\Users\asus\Desktop\carlo - Copy\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Users\asus\Source\Repos\sunshinewoodworkz2\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.App.config
+C:\Users\asus\Source\Repos\sunshinewoodworkz2\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\asus\Source\Repos\sunshinewoodworkz2\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\sunshinewoodworkz2\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\asus\Source\Repos\sunshinewoodworkz2\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
