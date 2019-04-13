@@ -20,7 +20,7 @@ namespace Ecommerce.Models
         public IList<AuthenticationDescription> OtherLogins { get; set; }
     }
 
-    public class FactorViewModel
+public class FactorViewModel
     {
         public string Purpose { get; set; }
     }
@@ -57,8 +57,7 @@ namespace Ecommerce.Models
         [Compare("NewPassword", ErrorMessage = "The new password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
     }
-
-    public class AddPhoneNumberViewModel
+public class AddPhoneNumberViewModel
     {
         [Required]
         [Phone]
@@ -84,3 +83,4 @@ namespace Ecommerce.Models
         public ICollection<System.Web.Mvc.SelectListItem> Providers { get; set; }
     }
 }
+   
