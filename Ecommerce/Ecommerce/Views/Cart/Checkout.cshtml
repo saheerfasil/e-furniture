@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Ecommerce.Models.Product>
+﻿@model  Ecommerce.Models.CartViewModel
 
 @{
     ViewBag.Title = "Details";
@@ -8,7 +8,7 @@
 <h1>Checkout</h1>
 <hr />
 
-@if (Model.Count() > 0)
+@if (Model.Products.Count() > 0)
 {
     <div class="row">
         <form method="post" action="/Cart/Checkout">
@@ -110,7 +110,7 @@
                             </tr>
                             @{
                                 decimal sub_total = 0;
-                                foreach (var item in Model)
+                                foreach (var item in Model.Products)
                                 {
                                     // Retrieve object from session by ID.
                                     var session_item = Json.Decode(ViewBag.Session[item.id]);
