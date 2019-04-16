@@ -26,5 +26,11 @@ namespace Ecommerce.Controllers
 
             return View();
         }
+
+
+        public ActionResult PaymentWithPayPal()
+        {
+            return View();
+        }
     }
 }
