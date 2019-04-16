@@ -1,4 +1,7 @@
 ﻿using DotNetOpenAuth.GoogleOAuth2;
+using Ecommerce.Models;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
 using Microsoft.AspNet.Membership.OpenAuth;
 using System;
 using System.Collections.Generic;
@@ -32,6 +35,18 @@ namespace Ecommerce.Controllers
         public ActionResult Index()
         {
             return View();
+        }
+        private ApplicationUserManager _userManager;
+        public ApplicationUserManager UserManager
+        {
+            get
+            {
+                return _userManager ?? HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
+            }
+            private set
+            {
+                _userManager = value;
+            }
         }
 
         public ActionResult RedirectToGoogle()
@@ -72,13 +87,15 @@ namespace Ecommerce.Controllers
                 return Redirect(Url.Action("Account", "Login"));
             }
 
-            
+            // User has logged in with provider successfully
+            // Check if user is already registered locally
+            //You can call you user data access method to check and create users based on your model
             if (OpenAuth.Login(authResult.Provider, authResult.ProviderUserId, createPersistentCookie: false))
             {
                 return Redirect(Url.Action("Index", "Home"));
             }
 
-            
+            //Get provider user details
             string ProviderUserId = authResult.ProviderUserId;
             string ProviderUserName = authResult.UserName;
 
@@ -90,16 +107,18 @@ namespace Ecommerce.Controllers
 
             if (User.Identity.IsAuthenticated)
             {
-                
+                // User is already authenticated, add the external login and redirect to return url
                 OpenAuth.AddAccountToExistingUser(ProviderName, ProviderUserId, ProviderUserName, User.Identity.Name);
                 return Redirect(Url.Action("Index", "Home"));
             }
             else
             {
-               
+                // User is new, save email as username
                 string membershipUserName = Email ?? ProviderUserId;
                 var createResult = OpenAuth.CreateUser(ProviderName, ProviderUserId, ProviderUserName, membershipUserName);
-
+                var user = new ApplicationUser { UserName = ProviderUserName, Email = authResult.ExtraData["email"], PhoneNumber = "100" };
+                  var result =   UserManager.CreateAsync(user, "asdsad");
+             
                 if (!createResult.IsSuccessful)
                 {
                     ViewBag.Message = "User cannot be created";
@@ -107,14 +126,14 @@ namespace Ecommerce.Controllers
                 }
                 else
                 {
-                    
+                    // User created
                     if (OpenAuth.Login(ProviderName, ProviderUserId, createPersistentCookie: false))
                     {
                         return Redirect(Url.Action("Index", "Home"));
                     }
                 }
             }
-            return View();
+            return Redirect(Url.Action("Index", "Home"));
         }
 
     }
