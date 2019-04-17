@@ -40,20 +40,32 @@ namespace Ecommerce.Controllers
 
             return View(cart_items.ToList());
         }
+        
 
+             [HttpGet]
+        public ActionResult Cash()
+        {
+            
+            return View();
+        }
         // GET: Cart
         [HttpGet]
         public ActionResult Checkout()
         {
-            GlobalMethods.MaybeInitializeSession();
-            
-            CartViewModel vm = new CartViewModel();
-            
+            var user = (ApplicationUser)Session["user"];
+            if (user == null)
+            {
+                return RedirectToAction("Login", "Account");
+
+            }
+            GlobalMethods.MaybeInitializeSession(); 
+            CartViewModel vm = new CartViewModel(); 
             /* Query all products by list of cart item IDs store in session. */
             var cart_items = db.Products.Where(item => SessionSingleton.Current.Cart.Keys.Contains(item.id));
             vm.Products = cart_items.ToList();
             ViewBag.Session = SessionSingleton.Current.Cart;
-          
+            vm.DeliveryDetails = new DeliveryDetails();
+            vm.cartmain = new CartMain();
             return View(vm);
         }
         
@@ -75,6 +87,7 @@ namespace Ecommerce.Controllers
             deldet.billing_stret_1 = collection["billing_stret_1"];
             deldet.billing_stret_2 = collection["billing_stret_2"];
             deldet.billing_zip = collection["billing_zip"];
+            deldet.payment_gateway = collection["payment_gateway"];            
             db.DeliveryDetails.Add(deldet);
             CartMain main = new CartMain();
             main.DeliveryDetails = deldet;
@@ -101,8 +114,13 @@ namespace Ecommerce.Controllers
             }
 
             db.SaveChanges();
-
-            return RedirectToAction("Checkout", "Cart");
+            SessionSingleton.setclear();
+            if (deldet.payment_gateway== "paypal")
+            {
+                
+                    return RedirectToAction("PaymentWithPaypal", "Cart");
+            }
+            return RedirectToAction("Cash", "Cart");
         }
     
         [AllowAnonymous]
