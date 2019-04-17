@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Ecommerce.Models.CartSub>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List All Cart</h2>
+ 
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CartMain.cart_date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CartMain.DeliveryDetails.billing_first_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.total)
+        </th>
+        @*<th></th>*@
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.CartMain.cart_date)
+    </td>
+    <td>
+        @Html.DisplayFor(model => item.CartMain.DeliveryDetails.billing_first_name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Product.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.quantity)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.type)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.color)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.total)
+    </td>
+    @*<td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.subcr_id }) |
+        @Html.ActionLink("Details", "Details", new { id = item.subcr_id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.subcr_id })
+    </td>*@
+</tr>
+}
+
+</table>
