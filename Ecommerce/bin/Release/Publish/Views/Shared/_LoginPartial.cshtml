@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNet.Identity
+@using Ecommerce.Models
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right">
+        @{
+            var user = (ApplicationUser)Session["user"];
+        }
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dashboard <span class="caret"></span></a>
+            @{ if (user.PhoneNumber != "100")
+                {
+
+                    <ul class="dropdown-menu">
+                        <li>@Html.ActionLink("Account", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })</li>
+                        <li><a href="/Products/Create">Create New Product</a></li>
+                        <li><a href="/Products/UserItems">Manage Products</a></li>
+                        <li><a href="/CartSubs">Cart</a></li>
+                    </ul>
+                }
+                else
+                {
+                    <ul class="dropdown-menu">
+                        <li>@Html.ActionLink("Account", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })</li>
+                    </ul>
+
+                }
+            }
+        </li>
+        <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+    </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}
