@@ -10,6 +10,7 @@ namespace Ecommerce.Models
 {
     public class Product
     {
+        [Key]
         public int id { get; set; }
         public string name { get; set; }
         [AllowHtml]
